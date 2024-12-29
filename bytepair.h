@@ -1,8 +1,8 @@
 /******************************************************************************
- * File Name    : fusebyte.h
+ * File Name    : bytepair.h
  * Coder        : Aziz Gökhan NARİN
  * E-Mail       : azizgokhannarin@yahoo.com
- * Explanation  : Perfect Bit Sequence
+ * Explanation  : Intersecting Byte Pairs
  * Versiyon     : 1.0.0
  ******************************************************************************/
 
